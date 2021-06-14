@@ -1,5 +1,6 @@
 # python command
 alias py='python'
+alias p3='python3'
 
 # Find python file
 alias pyfind='find . -name "*.py"'
